@@ -15,7 +15,7 @@ As of right now there is only one gamemode:
 
 ## Preview
 ### Menu
-![Menu](https://github.com/LuisMCap/Pong-Game/blob/main/readmeimages/Menu.png?raw=true)
+![Menu](readmeimages/Menu.png?raw=true)
 
 ### Controls
 ![Controls](readmeimages/controls.png?raw=true)
