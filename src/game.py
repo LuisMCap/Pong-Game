@@ -1,7 +1,3 @@
-### HACER EL NUEVO MODO DE JUEGO
-### RELAMPAGO: LA BOLA SE HACE MAS RAPIDO CADA VEZ (GRAVITY)
-### PORTALES: CREA DOS PORTALES POR LOS QUE PASA LA PELOTA
-
 import pygame
 from normal_mode import *
 from settings import *
