@@ -2,7 +2,7 @@
 
 This is a standard Pong Game I built using only OOP.
 
-If you would like to try the game. Clone the repository and run the game.py file inside the src folder
+If you would like to try the game. Clone the repository and run the game.py file inside the src folder (You need to pip install pygame first in your envrironment)
 
 As of right now there is only one gamemode:
 
