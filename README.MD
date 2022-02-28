@@ -18,10 +18,10 @@ As of right now there is only one gamemode:
 ![Menu](https://github.com/LuisMCap/Pong-Game/blob/main/readmeimages/Menu.png?raw=true)
 
 ### Controls
-![Controls](readmeimages/controls.png)
+![Controls](readmeimages/controls.png?raw=true)
 
 ### Game
-![Game](images/game.png?raw=true)
+![Game](readmeimages/game.png?raw=true)
 
 
 
